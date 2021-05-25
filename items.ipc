@@ -1731,11 +1731,19 @@
         {
             "downloadMenuId": 6,
             "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzOTM=",
-            "id": 2036,
-            "name": "IPC_XM580_85X80L.Nat.dss.OnvifS.HIK",
+            "id": 2091,
+            "name": "IPC_XM580_85X80L.Nat.dss.OnvifS.HIK_V5.00.R02",
             "usage": "",
             "version": "00060759.1"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0MTM=",
+            "id": 2090,
+            "name": "IPC_NT98562_80N40_S38_V5.00.R02",
+            "usage": "",
+            "version": "000629G3.1"
         }
     ],
-    "total": 217
+    "total": 218
 }

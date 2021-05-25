@@ -1194,6 +1194,14 @@
         },
         {
             "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzNTc=\n\n",
+            "id": 2085,
+            "name": "AHB8008R-LME",
+            "usage": "",
+            "version": "00000228(AHB8008R-LME)\t"
+        },
+        {
+            "downloadMenuId": 5,
             "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzNjE=",
             "id": 2059,
             "name": "AHB80N04R-GS",
@@ -1207,6 +1215,14 @@
             "name": "AHB80N16T-LME",
             "usage": "",
             "version": "00000232"
+        },
+        {
+            "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0MjE=",
+            "id": 2079,
+            "name": "NBD80X24RA-KL",
+            "usage": "",
+            "version": "00000238"
         },
         {
             "downloadMenuId": 5,
@@ -1226,6 +1242,14 @@
         },
         {
             "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0MTc=",
+            "id": 2080,
+            "name": "NBD89X04T-PL-XPOE",
+            "usage": "",
+            "version": "0000023F"
+        },
+        {
+            "downloadMenuId": 5,
             "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzNjg=",
             "id": 2054,
             "name": "AHB80N16T-LM",
@@ -1242,19 +1266,35 @@
         },
         {
             "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzODY=",
+            "id": 2083,
+            "name": "AHB80N16T-LM-V2",
+            "usage": "",
+            "version": "0000023M"
+        },
+        {
+            "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0MDU=",
+            "id": 2082,
+            "name": "AHB80N16T-LME-V2",
+            "usage": "",
+            "version": "0000023N"
+        },
+        {
+            "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0MjM=",
+            "id": 2078,
+            "name": "NBD9004Q-UW",
+            "usage": "",
+            "version": "0000023S"
+        },
+        {
+            "downloadMenuId": 5,
             "downloadUrl": "https://download.xm030.cn/d/MDAwMDEwMTg=",
             "id": 1836,
             "name": "AHB7804R-MH-V3",
             "usage": "",
             "version": "0003114A"
-        },
-        {
-            "downloadMenuId": 5,
-            "downloadUrl": "https://download.xm030.cn/d/MDAwMDExODM=",
-            "id": 1884,
-            "name": "AHB7804R-LMS-V5",
-            "usage": "",
-            "version": "0003121G"
         },
         {
             "downloadMenuId": 5,
@@ -1279,7 +1319,23 @@
             "name": "AHB88X04R-LM",
             "usage": "",
             "version": "00031239"
+        },
+        {
+            "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0MDk=",
+            "id": 2081,
+            "name": "AHB88N04R-LM",
+            "usage": "",
+            "version": "0003123P"
+        },
+        {
+            "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzNTg=",
+            "id": 2084,
+            "name": "NBD8032H8-KEY",
+            "usage": "",
+            "version": "J8780221"
         }
     ],
-    "total": 160
+    "total": 167
 }
