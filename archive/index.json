@@ -963,6 +963,322 @@
       }
     ]
   },
+  "1377": {
+    "downloadMenuId": 5,
+    "name": "AHB7804R-MH-V2",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:13Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNjU=",
+        "version": "00000149"
+      }
+    ]
+  },
+  "1378": {
+    "downloadMenuId": 5,
+    "name": "AHB7808R-MH-V2",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:15Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNjY=",
+        "version": "00000151"
+      }
+    ]
+  },
+  "1379": {
+    "downloadMenuId": 5,
+    "name": "NBD8904T-Q",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:17Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNjc=",
+        "version": "00000152"
+      }
+    ]
+  },
+  "1380": {
+    "downloadMenuId": 5,
+    "name": "NBD8908T-Q",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:19Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNjg=",
+        "version": "00000153"
+      }
+    ]
+  },
+  "1381": {
+    "downloadMenuId": 5,
+    "name": "AHB7032F-LM-V2",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:20Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNjk=",
+        "version": "00000155"
+      }
+    ]
+  },
+  "1382": {
+    "downloadMenuId": 5,
+    "name": "AHB7808R-MS-V2",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:22Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNzA=",
+        "version": "00000156"
+      }
+    ]
+  },
+  "1383": {
+    "downloadMenuId": 5,
+    "name": "NBD7804R-FW",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:24Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNzE=",
+        "version": "00000157"
+      }
+    ]
+  },
+  "1384": {
+    "downloadMenuId": 5,
+    "name": "NBD7004T-FW",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:26Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNzI=",
+        "version": "00000158"
+      }
+    ]
+  },
+  "1385": {
+    "downloadMenuId": 5,
+    "name": "NBD8016H-QT",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:28Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNzM=",
+        "version": "00000159"
+      }
+    ]
+  },
+  "1386": {
+    "downloadMenuId": 5,
+    "name": "MVB7004L-LM",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:30Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNzQ=",
+        "version": "00000160"
+      }
+    ]
+  },
+  "1387": {
+    "downloadMenuId": 5,
+    "name": "NBD8064H-P",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:01:39Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1387__00000161__00000161(NBD8064H-P).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxODI=",
+        "filename": "id1387__00000161__00000161(NBD8064H-P).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "423389ffa1a653bbfeac53e4daa77dd9d2c75103a375d5485bfb4cd65a653404",
+        "size": 13031341,
+        "version": "00000161"
+      }
+    ]
+  },
+  "1388": {
+    "downloadMenuId": 5,
+    "name": "NBD8128H-Q",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:01:42Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxODM=",
+        "version": "00000162"
+      }
+    ]
+  },
+  "1389": {
+    "downloadMenuId": 5,
+    "name": "NBD7016T-F-V2",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:01:51Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1389__00000163__00000163(NBD7016T-F-V2).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxODQ=",
+        "filename": "id1389__00000163__00000163(NBD7016T-F-V2).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "7c88d4da428f3ba30a16d7375ffd59c01d162e6203097ed57366747471ee9293",
+        "size": 12942112,
+        "version": "00000163"
+      }
+    ]
+  },
+  "1390": {
+    "downloadMenuId": 5,
+    "name": "NBD7816R-F-V2",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:02:00Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1390__00000164__00031164(NBD7816R-F-V2).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxODU=",
+        "filename": "id1390__00000164__00031164(NBD7816R-F-V2).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "c5899cd890065308fd683219bdcf86b5c8cf6c89488f99ebd167f3f109805188",
+        "size": 7829182,
+        "version": "00000164"
+      }
+    ]
+  },
+  "1391": {
+    "downloadMenuId": 5,
+    "name": "NBD7804R-PW",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:02Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxODY=",
+        "version": "00000168"
+      }
+    ]
+  },
+  "1392": {
+    "downloadMenuId": 5,
+    "name": "AHB7804R-MS-V2",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:04Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxODc=",
+        "version": "00000169"
+      }
+    ]
+  },
+  "1393": {
+    "downloadMenuId": 5,
+    "name": "AHB7008T-GS-V3",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:05Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxODg=",
+        "version": "00000170"
+      }
+    ]
+  },
+  "1394": {
+    "downloadMenuId": 5,
+    "name": "AHB7004T-GS-V3",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:08Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxODk=",
+        "version": "00000171"
+      }
+    ]
+  },
+  "1395": {
+    "downloadMenuId": 5,
+    "name": "AHB7016T-GS-V3",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:10Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxOTA=",
+        "version": "00000172"
+      }
+    ]
+  },
+  "1396": {
+    "downloadMenuId": 5,
+    "name": "AHB7016F-GL-V4",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:14Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxOTE=",
+        "version": "00000175"
+      }
+    ]
+  },
+  "1397": {
+    "downloadMenuId": 5,
+    "name": "AHB7804T-MS-V2",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:16Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxOTI=",
+        "version": "00000176"
+      }
+    ]
+  },
+  "1398": {
+    "downloadMenuId": 5,
+    "name": "AHB7808T-MS-V2",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:17Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxOTM=",
+        "version": "00000177"
+      }
+    ]
+  },
+  "1399": {
+    "downloadMenuId": 5,
+    "name": "NBD7004T-PW",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:18Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxOTQ=",
+        "version": "00000178"
+      }
+    ]
+  },
+  "1400": {
+    "downloadMenuId": 5,
+    "name": "NBD8032H-P",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:02:28Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1400__00000179__00000179(NBD8032H-P).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxOTU=",
+        "filename": "id1400__00000179__00000179(NBD8032H-P).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "1bc4e1ec052500074febeba416c802ac36b670dbc41832871cd5a1dfad9ace26",
+        "size": 13153798,
+        "version": "00000179"
+      }
+    ]
+  },
+  "1401": {
+    "downloadMenuId": 5,
+    "name": "AHB7016F-GS-V3",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:02:29Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxOTY=",
+        "version": "00000180"
+      }
+    ]
+  },
   "1595": {
     "downloadMenuId": 6,
     "name": "IPC_LITEOS_HI3516EV100_50H20L",
