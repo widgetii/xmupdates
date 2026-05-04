@@ -1054,5 +1054,53 @@
         "version": "00001531.1"
       }
     ]
+  },
+  "1683": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516A_83H50_AE_RT3070",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:56:24Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MDg=",
+        "version": "00010850.1"
+      }
+    ]
+  },
+  "1684": {
+    "downloadMenuId": 6,
+    "name": "IPC16D_83H40",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:56:25Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MDk=",
+        "version": "00014840.1"
+      }
+    ]
+  },
+  "1685": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516D_N83020_RT3070",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:56:26Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MTA=",
+        "version": "00014900.1"
+      }
+    ]
+  },
+  "1686": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516D_83H20_AE_RT3070",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:56:28Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MTE=",
+        "version": "00014911.1"
+      }
+    ]
   }
 }
