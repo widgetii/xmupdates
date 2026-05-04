@@ -514,5 +514,65 @@
         "version": "00017535.1"
       }
     ]
+  },
+  "1637": {
+    "downloadMenuId": 6,
+    "name": "IPC_GM8135S_R50V10-H_8188EU",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:26Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNjI=",
+        "version": "00017508.1"
+      }
+    ]
+  },
+  "1638": {
+    "downloadMenuId": 6,
+    "name": "IPC_GM8135S_R53V13_8188EU",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:27Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNjM=",
+        "version": "00017505.1"
+      }
+    ]
+  },
+  "1639": {
+    "downloadMenuId": 6,
+    "name": "IPC_GM8135S_53V13PL-S",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:28Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNjQ=",
+        "version": "00017504.1"
+      }
+    ]
+  },
+  "1640": {
+    "downloadMenuId": 6,
+    "name": "IPC_GM8135S_R50V10_8188EU",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:29Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNjU=",
+        "version": "00017503.1"
+      }
+    ]
+  },
+  "1641": {
+    "downloadMenuId": 6,
+    "name": "IPC_GM8135S_50V10PL-S_",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:30Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNjY=",
+        "version": "00017502.1"
+      }
+    ]
   }
 }
