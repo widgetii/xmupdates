@@ -1,31 +1,51 @@
 #!/usr/bin/env python3
 
-import requests
 import json
 
-catalog = {
-    6: 'ipc',
-    5: 'dvr',
+import requests
+import urllib3
+
+CATALOGS = {
+    6: "ipc",
+    5: "dvr",
 }
 
-#curl 'https://baike.xm030.cn/download/pagination.do' --data-raw 'page=1&rows=50&paramValue=5'
+PAGINATION_URL = "https://baike.xm030.cn/download/pagination.do"
+
+# Vendor TLS cert is stale (issued for a different domain, expired in 2019).
+# Disable verification only for this host.
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
+
 def get_rows(param, num):
-    update_url = f"https://baike.xm030.cn/download/pagination.do?page=1&rows={num}&paramValue={param}"
-    r = requests.get(update_url)
+    r = requests.get(
+        PAGINATION_URL,
+        params={"page": 1, "rows": num, "paramValue": param},
+        verify=False,
+        timeout=60,
+    )
+    r.raise_for_status()
     return r.json()
 
 
+def clean_row(row):
+    url = row.get("downloadUrl")
+    if isinstance(url, str):
+        row["downloadUrl"] = url.strip()
+    return row
+
+
 def main():
-
-    for i in catalog:
-        total = get_rows(i, 1)['total']
-        items = get_rows(i, total)
-        fname = f"items.{catalog[i]}"
-        print(f"Writing {fname}...")
+    for param, suffix in CATALOGS.items():
+        total = get_rows(param, 1)["total"]
+        items = get_rows(param, total)
+        items["rows"] = sorted((clean_row(r) for r in items["rows"]), key=lambda r: r["id"])
+        fname = f"items.{suffix}"
+        print(f"Writing {fname} ({len(items['rows'])} rows)...")
         with open(fname, "w") as f:
+            json.dump(items, f, sort_keys=True, indent=4)
+            f.write("\n")
 
-            f.write(json.dumps(items, sort_keys=True, indent=4))
 
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

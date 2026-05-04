@@ -1,0 +1,102 @@
+name: weekly-update
+
+on:
+  schedule:
+    - cron: '17 4 * * 1'   # Mondays 04:17 UTC
+  workflow_dispatch:
+    inputs:
+      max_per_run:
+        description: 'Max firmwares to download in this run'
+        required: false
+        default: '25'
+      commit_every:
+        description: 'Commit archive/index.json every N successful uploads'
+        required: false
+        default: '5'
+      dry_run:
+        description: 'Dry run (resolve URLs, no download/upload)'
+        required: false
+        default: 'false'
+
+concurrency:
+  group: xmupdates-cron
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Refresh catalog
+        run: python xmupdates.py
+
+      - name: Commit catalog if changed
+        run: |
+          git config user.name  "xmupdates-bot"
+          git config user.email "actions@github.com"
+          git add items.ipc items.dvr
+          if git diff --cached --quiet; then
+            echo "Catalog unchanged."
+          else
+            git commit -m "chore: refresh catalog $(date -u +%F)"
+            git push
+          fi
+
+  download-firmwares:
+    needs: refresh-catalog
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Configure git
+        run: |
+          git config user.name  "xmupdates-bot"
+          git config user.email "actions@github.com"
+
+      - name: Ensure firmware-archive release exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh release view firmware-archive >/dev/null 2>&1; then
+            gh release create firmware-archive \
+              --title "Firmware archive" \
+              --notes "Mirror of XiongMai firmware binaries. See archive/index.json for the full mapping from catalog id to asset URL."
+          fi
+
+      - name: Download missing firmwares
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MAX_PER_RUN: ${{ github.event.inputs.max_per_run || '25' }}
+          COMMIT_EVERY: ${{ github.event.inputs.commit_every || '5' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: |
+          args=(--max-per-run "$MAX_PER_RUN" --commit-every "$COMMIT_EVERY")
+          if [ "$DRY_RUN" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          python download_firmwares.py "${args[@]}"
+
+      - name: Push tail commits
+        run: git push || true

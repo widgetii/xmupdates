@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Downloaded firmwares are stored as GitHub Release assets, never committed.
+*.zip
