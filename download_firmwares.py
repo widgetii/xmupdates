@@ -56,7 +56,8 @@ INDEX_PATH = ROOT / "archive" / "index.json"
 CATALOG_FILES = [ROOT / "items.ipc", ROOT / "items.dvr"]
 RELEASE_TAG = "firmware-archive"
 LANDING_HOST = "download.xm030.cn"
-OBS_HOST_SUFFIX = "myhuaweicloud.com"
+# Vendor hosts ZIPs on either Huawei OBS or Kingsoft Cloud KS3 depending on age.
+ZIP_HOST_SUFFIXES = ("myhuaweicloud.com", "ksyun.com")
 SAFE_NAME_RE = re.compile(r"[^A-Za-z0-9._-]+")
 OFFLINE_MARKERS = ("文件已过期下线", "The file has expired")
 
@@ -65,6 +66,10 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class FirmwareUnavailable(Exception):
     """Vendor has taken the firmware offline."""
+
+
+class CatalogDataError(Exception):
+    """The catalog row itself is malformed (e.g. downloadUrl is not a URL)."""
 
 
 def load_index():
@@ -99,6 +104,8 @@ def revision_seen(index, rid, download_url):
         return True
     if any(u.get("downloadUrl") == download_url for u in entry.get("unavailable", [])):
         return True
+    if any(d.get("downloadUrl") == download_url for d in entry.get("data_errors", [])):
+        return True
     return False
 
 
@@ -109,19 +116,25 @@ def session_for(url):
     return s
 
 
-def resolve_obs_url(landing_url):
+def resolve_zip_url(landing_url):
+    parsed = urlparse(landing_url)
+    if parsed.scheme not in ("http", "https") or not parsed.netloc:
+        raise CatalogDataError(f"downloadUrl is not an http(s) URL: {landing_url!r}")
     s = session_for(landing_url)
     r = s.get(landing_url, timeout=60)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
-        if OBS_HOST_SUFFIX in href and href.lower().endswith(".zip"):
+        if not href.lower().endswith(".zip"):
+            continue
+        host = (urlparse(href).hostname or "").lower()
+        if any(host.endswith(suffix) for suffix in ZIP_HOST_SUFFIXES):
             return href
     if any(marker in r.text for marker in OFFLINE_MARKERS):
         raise FirmwareUnavailable("vendor took the firmware offline")
     raise RuntimeError(
-        f"No OBS ZIP link found on {landing_url}. Page snippet: {r.text[:500]!r}"
+        f"No ZIP link found on {landing_url}. Page snippet: {r.text[:500]!r}"
     )
 
 
@@ -130,6 +143,8 @@ def download_zip(url, dest):
     sha = hashlib.sha256()
     size = 0
     with s.get(url, stream=True, timeout=300) as r:
+        if r.status_code in (404, 410):
+            raise FirmwareUnavailable(f"CDN returned {r.status_code} for {url}")
         r.raise_for_status()
         with dest.open("wb") as f:
             for chunk in r.iter_content(chunk_size=1 << 16):
@@ -270,6 +285,34 @@ def main():
     since_commit = 0
 
     unavailable_count = 0
+    data_error_count = 0
+
+    def record_metadata(entry, row):
+        entry["name"] = row.get("name", entry.get("name", ""))
+        entry["downloadMenuId"] = row.get("downloadMenuId", entry.get("downloadMenuId"))
+
+    def maybe_commit():
+        nonlocal since_commit
+        if not args.dry_run:
+            save_index(index)
+            since_commit += 1
+            if since_commit >= args.commit_every:
+                commit_and_push(since_commit)
+                since_commit = 0
+
+    def record_unavailable(row, landing, version):
+        entry = index.setdefault(str(row["id"]), {
+            "name": row.get("name", ""),
+            "downloadMenuId": row.get("downloadMenuId"),
+            "revisions": [],
+        })
+        record_metadata(entry, row)
+        entry.setdefault("unavailable", []).append({
+            "version": version,
+            "downloadUrl": landing,
+            "checked_at": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        })
+        maybe_commit()
 
     for row in pending:
         rid = str(row["id"])
@@ -278,43 +321,49 @@ def main():
         print(f"\n[id={rid}] version={version!r} -> {landing}")
         try:
             try:
-                obs_url = resolve_obs_url(landing)
+                obs_url = resolve_zip_url(landing)
             except FirmwareUnavailable:
                 print("  vendor reports firmware offline; recording in index.")
+                record_unavailable(row, landing, version)
+                unavailable_count += 1
+                continue
+            except CatalogDataError as e:
+                print(f"  catalog data error ({e}); recording in index.")
                 entry = index.setdefault(rid, {
                     "name": row.get("name", ""),
                     "downloadMenuId": row.get("downloadMenuId"),
                     "revisions": [],
                 })
-                entry["name"] = row.get("name", entry.get("name", ""))
-                entry["downloadMenuId"] = row.get("downloadMenuId", entry.get("downloadMenuId"))
-                entry.setdefault("unavailable", []).append({
+                record_metadata(entry, row)
+                entry.setdefault("data_errors", []).append({
                     "version": version,
                     "downloadUrl": landing,
+                    "reason": str(e),
                     "checked_at": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                 })
-                if not args.dry_run:
-                    save_index(index)
-                    since_commit += 1
-                    if since_commit >= args.commit_every:
-                        commit_and_push(since_commit)
-                        since_commit = 0
-                unavailable_count += 1
+                maybe_commit()
+                data_error_count += 1
                 continue
             asset_name = asset_name_for(rid, version, obs_url)
-            print(f"  OBS: {obs_url}")
+            print(f"  zip: {obs_url}")
             print(f"  asset: {asset_name}")
 
             if args.dry_run:
                 successes += 1
                 continue
 
-            with tempfile.TemporaryDirectory() as td:
-                tmp_path = Path(td) / Path(urlparse(obs_url).path).name
-                sha256, size = download_zip(obs_url, tmp_path)
-                print(f"  sha256={sha256}  size={size}")
-                uploaded = upload_asset(tmp_path, asset_name)
-                existing_assets.add(uploaded.name)
+            try:
+                with tempfile.TemporaryDirectory() as td:
+                    tmp_path = Path(td) / Path(urlparse(obs_url).path).name
+                    sha256, size = download_zip(obs_url, tmp_path)
+                    print(f"  sha256={sha256}  size={size}")
+                    uploaded = upload_asset(tmp_path, asset_name)
+                    existing_assets.add(uploaded.name)
+            except FirmwareUnavailable as e:
+                print(f"  CDN reports binary missing ({e}); recording in index.")
+                record_unavailable(row, landing, version)
+                unavailable_count += 1
+                continue
 
             entry = index.setdefault(rid, {
                 "name": row.get("name", ""),
@@ -348,9 +397,12 @@ def main():
 
     total_revisions = sum(len(v.get("revisions", [])) for v in index.values())
     total_unavailable = sum(len(v.get("unavailable", [])) for v in index.values())
-    print(f"\nDone. successes={successes} unavailable={unavailable_count} failures={failures} "
-          f"total_revisions={total_revisions} total_unavailable={total_unavailable}")
-    if successes == 0 and unavailable_count == 0 and failures > 0:
+    total_data_errors = sum(len(v.get("data_errors", [])) for v in index.values())
+    print(f"\nDone. successes={successes} unavailable={unavailable_count} "
+          f"data_errors={data_error_count} failures={failures} "
+          f"total_revisions={total_revisions} total_unavailable={total_unavailable} "
+          f"total_data_errors={total_data_errors}")
+    if successes == 0 and unavailable_count == 0 and data_error_count == 0 and failures > 0:
         return 1
     return 0
 
