@@ -814,5 +814,65 @@
         "version": "00004533.1"
       }
     ]
+  },
+  "1663": {
+    "downloadMenuId": 6,
+    "name": "IPC53H13P_IMX138_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:59Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzODg=",
+        "version": "00002538.1"
+      }
+    ]
+  },
+  "1664": {
+    "downloadMenuId": 6,
+    "name": "AMBARA5S_53A20L",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:56:00Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzODk=",
+        "version": "00004532.1"
+      }
+    ]
+  },
+  "1665": {
+    "downloadMenuId": 6,
+    "name": "IPC53H20L_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:56:01Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzOTA=",
+        "version": "00002532.1"
+      }
+    ]
+  },
+  "1666": {
+    "downloadMenuId": 6,
+    "name": "IPC50H10L_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:56:02Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzOTE=",
+        "version": "00002510.1"
+      }
+    ]
+  },
+  "1667": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518C_53H13AF_2880_RT3070",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:56:03Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzOTI=",
+        "version": "00001928.1"
+      }
+    ]
   }
 }
