@@ -210,5 +210,65 @@
         "version": "00023661.1"
       }
     ]
+  },
+  "1612": {
+    "downloadMenuId": 6,
+    "name": "XM510_50X10-SWC_WIFIXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:55Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzc=",
+        "version": "00023660.1"
+      }
+    ]
+  },
+  "1613": {
+    "downloadMenuId": 6,
+    "name": "XM510_RA50X10-C_WIFIXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:56Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzg=",
+        "version": "00023657.1"
+      }
+    ]
+  },
+  "1614": {
+    "downloadMenuId": 6,
+    "name": "General_XM510_50X10-SW_WIFIXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:57Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzk=",
+        "version": "00023655.1"
+      }
+    ]
+  },
+  "1615": {
+    "downloadMenuId": 6,
+    "name": "General_XM510_53X13_onv",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:58Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNDA=",
+        "version": "00023651.1"
+      }
+    ]
+  },
+  "1616": {
+    "downloadMenuId": 6,
+    "name": "General_XM510_50X10_onv",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:59Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNDE=",
+        "version": "00023650.1"
+      }
+    ]
   }
 }
