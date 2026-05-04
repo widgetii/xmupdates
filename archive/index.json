@@ -694,5 +694,65 @@
         "version": "00007831.1"
       }
     ]
+  },
+  "1653": {
+    "downloadMenuId": 6,
+    "name": "IPC18E_RA50H10L_8188_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:47Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNzg=",
+        "version": "00007810.1"
+      }
+    ]
+  },
+  "1654": {
+    "downloadMenuId": 6,
+    "name": "IPC18E_53H13_8188_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:48Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNzk=",
+        "version": "00007531.1"
+      }
+    ]
+  },
+  "1655": {
+    "downloadMenuId": 6,
+    "name": "IPC18E_C50H10_8188_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:49Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzODA=",
+        "version": "00007518.1"
+      }
+    ]
+  },
+  "1656": {
+    "downloadMenuId": 6,
+    "name": "IPC18E_50H10L_8188_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:50Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzODE=",
+        "version": "00007510.1"
+      }
+    ]
+  },
+  "1657": {
+    "downloadMenuId": 6,
+    "name": "IPC18E_RA50H10L_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:55:51Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzODI=",
+        "version": "00006810.1"
+      }
+    ]
   }
 }
