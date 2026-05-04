@@ -2994,5 +2994,405 @@
         "version": "00060759.1"
       }
     ]
+  },
+  "2129": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7205V300_85K50T.Nat",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:43:34Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2129__000699H7.1__000699H7.1IPC_GK7205V300_85K50T.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NjA=",
+        "filename": "id2129__000699H7.1__000699H7.1IPC_GK7205V300_85K50T.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "33311074868314b90be11a6915ca49f673d0e2e70599e9821457a8fa881529a2",
+        "size": 36215798,
+        "version": "000699H7.1"
+      }
+    ]
+  },
+  "2130": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7605V100_83K50W_S38",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:43:47Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2130__000669HC.1__000669HC.1IPC_GK7605V100_83K50W_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NjE=",
+        "filename": "id2130__000669HC.1__000669HC.1IPC_GK7605V100_83K50W_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "de57c73dcbc71e1863c9b65ee32693ade6f011f94b8620dd81b1405f4edf856c",
+        "size": 28275289,
+        "version": "000669HC.1"
+      }
+    ]
+  },
+  "2131": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7205V200_85HF30T_S38",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:44:13Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2131__000659CD.1__000659CD.1IPC_GK7205V200_85HF30T_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NTA=",
+        "filename": "id2131__000659CD.1__000659CD.1IPC_GK7205V200_85HF30T_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "13066dd2b0a0de039d315005b2517051747c3e16e158105bc52438986ec0d61d",
+        "size": 35053882,
+        "version": "000659CD.1"
+      }
+    ]
+  },
+  "2132": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7205V200_50H20AI_S38",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:44:25Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2132__000659A7.1__000659A7.1IPC_GK7205V200_50H20AI_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NTk=",
+        "filename": "id2132__000659A7.1__000659A7.1IPC_GK7205V200_50H20AI_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "4cd50ebaf710abab7b484106378c60047b2301b6edcc56de8be4ed564ef4e738",
+        "size": 27991313,
+        "version": "000659A7.1"
+      }
+    ]
+  },
+  "2133": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_80N50_S38.",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:45:02Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2133__000639H4.1__000639H4.1IPC_NT98566_80N50_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NDI=",
+        "filename": "id2133__000639H4.1__000639H4.1IPC_NT98566_80N50_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "e3b8ad1cbd1215529a20acf79141e0332fb7c7163c82ec462e81b21fdc7884c6",
+        "size": 33770723,
+        "version": "000639H4.1"
+      }
+    ]
+  },
+  "2134": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98562_80N40PSA-RG_S38.713g.",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:45:14Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2134__0006292A.1__0006292A.1IPC_NT98562_80N40PSA-RG_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NDU=",
+        "filename": "id2134__0006292A.1__0006292A.1IPC_NT98562_80N40PSA-RG_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "597208b05e7b21926a2441c8ace15c7a52463e0991b160c18bbc939bc4d40465",
+        "size": 7799806,
+        "version": "0006292A.1"
+      }
+    ]
+  },
+  "2191": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7202V300_G3-WR_S38.713g",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:45:26Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2191__000759L5.1__000759L5.1IPC_GK7202V300_G3-WR_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Mzg=",
+        "filename": "id2191__000759L5.1__000759L5.1IPC_GK7202V300_G3-WR_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "e8340dac4d437ef9cb581743db972119f34874e3b96ddac94f6d7271711cb02e",
+        "size": 7697065,
+        "version": "000759L5.1"
+      }
+    ]
+  },
+  "2192": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_N8-PFCD.Nat.dss.OnvifS.HIK",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:45:51Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2192__000749L6.1__000749L6.1IPC_NT98566_N8-PFCD.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Mzc=",
+        "filename": "id2192__000749L6.1__000749L6.1IPC_NT98566_N8-PFCD.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "5362bfef3b9c0abcde357f98d59c58a1eb8129bf2699f115e5042d3429f3c1ea",
+        "size": 35664044,
+        "version": "000749L6.1"
+      }
+    ]
+  },
+  "2193": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7205V200_85HF30T.Nat.dss.OnvifS.HIK",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:46:02Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2193__000739CD.1__000739CD.1IPC_GK7205V200_85HF30T.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MzA=",
+        "filename": "id2193__000739CD.1__000739CD.1IPC_GK7205V200_85HF30T.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "e1bf260c90230005e4b4731c4f7bbf858d8ed3c6cfb052a5c2acde736fb0dd57",
+        "size": 7149057,
+        "version": "000739CD.1"
+      }
+    ]
+  },
+  "2194": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7205V200_50H20AI.Nat.dss.OnvifS.HIK",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:46:12Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2194__000739A7.1__000739A7.1IPC_GK7205V200_50H20AI.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MTk=",
+        "filename": "id2194__000739A7.1__000739A7.1IPC_GK7205V200_50H20AI.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "797fe3342ff2bf292e84364cedf8f5ae22b383351c5537cf225b59975f57dbbf",
+        "size": 6603779,
+        "version": "000739A7.1"
+      }
+    ]
+  },
+  "2195": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7205V300_83K50W_S38",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:46:24Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2195__000709HC.1__000709HC.1IPC_GK7205V300_83K50W_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Mjk=",
+        "filename": "id2195__000709HC.1__000709HC.1IPC_GK7205V300_83K50W_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "4304ea4c64fe86d236d8eca83fdd03f0335dea638f61bde986ba37bcd47782f6",
+        "size": 29435194,
+        "version": "000709HC.1"
+      }
+    ]
+  },
+  "2196": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7205V200_80G30-ER_S38.Nat.",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:46:31Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2196__000659I1.1__000659I1.1IPC_GK7205V200_80G30-ER_S38.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0ODk=",
+        "filename": "id2196__000659I1.1__000659I1.1IPC_GK7205V200_80G30-ER_S38.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "993ebe6a06d4d329ee5a127f185c1c9187c697fdeb9d7126c18cede501f3d09a",
+        "size": 7247534,
+        "version": "000659I1.1"
+      }
+    ]
+  },
+  "2197": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7205V200_80GF30PSA-RG_S38.713g.Nat.dss.OnvifS",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:46:39Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2197__000659H9.1__000659H9.1IPC_GK7205V200_80GF30PSA-RG_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0NTQ=",
+        "filename": "id2197__000659H9.1__000659H9.1IPC_GK7205V200_80GF30PSA-RG_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "95bd678a0fb82651bfd15d756a77965f1c6fa2e59a97686de01e99d3cb3e1d6d",
+        "size": 7695037,
+        "version": "000659H9.1"
+      }
+    ]
+  },
+  "2198": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_N4-LQ2_S38.Nat.dss",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:46:52Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2198__000639L9.1__000639L9.1IPC_NT98566_N4-LQ2_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Mzk=",
+        "filename": "id2198__000639L9.1__000639L9.1IPC_NT98566_N4-LQ2_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "8b5ce18126e0c7daa82e8f616c9f9099dd29f9993b62c7a892df0d434b987cad",
+        "size": 34514534,
+        "version": "000639L9.1"
+      }
+    ]
+  },
+  "2199": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_IPG-N2-4GQC2_S38",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:47:00Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2199__000639L3.1__000639L3.1IPC_NT98566_IPG-N2-4GQC2_S38.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NDY=",
+        "filename": "id2199__000639L3.1__000639L3.1IPC_NT98566_IPG-N2-4GQC2_S38.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "321d91b1553673e671da87b96107b1452515efb27d3ed6fb72b831ec0eb0122e",
+        "size": 6955437,
+        "version": "000639L3.1"
+      }
+    ]
+  },
+  "2200": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_IPG-N2-WQ2_S38.713g",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:47:08Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2200__000639L0.1__000639L0.1IPC_NT98566_IPG-N2-WQ2_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MjU=",
+        "filename": "id2200__000639L0.1__000639L0.1IPC_NT98566_IPG-N2-WQ2_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "6b423057ffce2ea5f48bcaef648cc110e9b7e63b3e148ee432902f85d709ff6c",
+        "size": 7856320,
+        "version": "000639L0.1"
+      }
+    ]
+  },
+  "2201": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_80N80PS-R_S38.Nat.dss",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:47:20Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2201__000639K6.1__000639K6.1IPC_NT98566_80N80PS-R_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NDQ=",
+        "filename": "id2201__000639K6.1__000639K6.1IPC_NT98566_80N80PS-R_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "f623e36877ed5e4d6b7e322b09d450fbec5f7a694e622efc5f1654ffb1a7659e",
+        "size": 28659395,
+        "version": "000639K6.1"
+      }
+    ]
+  },
+  "2202": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_IPG-N4-WQ2_S38.713g.Nat.dss.OnvifS",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:47:27Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2202__000639I8.1__000639I8.1IPC_NT98566_IPG-N4-WQ2_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MTc=",
+        "filename": "id2202__000639I8.1__000639I8.1IPC_NT98566_IPG-N4-WQ2_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "68978232fb1bbf8d152f240173bcaa89493d1b03f213acd803ff0e49a59437ab",
+        "size": 7793622,
+        "version": "000639I8.1"
+      }
+    ]
+  },
+  "2203": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_85N80_S38.Nat.dss",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:47:40Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2203__000639I2.1__000639I2.1IPC_NT98566_85N80_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0ODY=",
+        "filename": "id2203__000639I2.1__000639I2.1IPC_NT98566_85N80_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "d370cd28030e594f7932ecc944e92df851079e6fd7b2ac74dd9b1a0a6ff6354e",
+        "size": 35555910,
+        "version": "000639I2.1"
+      }
+    ]
+  },
+  "2204": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_N8-WQ_S38.713g",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:47:49Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2204__000639I0.1__000639I0.1IPC_NT98566_N8-WQ_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0OTU=",
+        "filename": "id2204__000639I0.1__000639I0.1IPC_NT98566_N8-WQ_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "42b165a3e4c20deaa33f6a785ec9bb1fbb633207344212f161875409836fc0fc",
+        "size": 7778264,
+        "version": "000639I0.1"
+      }
+    ]
+  },
+  "2205": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98562_N4L_S38.Nat.dss.OnvifS.HIK",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:48:01Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2205__000629JE.1__000629JE.1IPC_NT98562_N4L_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1MzI=",
+        "filename": "id2205__000629JE.1__000629JE.1IPC_NT98562_N4L_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "45148807d07138aa48d0050f3d27700a2001789fe88824323d4a74eb044f41f0",
+        "size": 33258588,
+        "version": "000629JE.1"
+      }
+    ]
+  },
+  "2206": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98562_80N40PS-R_S38",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:48:08Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2206__000629JD.1__000629JD.1IPC_NT98562_80N40PS-R_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NDU=",
+        "filename": "id2206__000629JD.1__000629JD.1IPC_NT98562_80N40PS-R_S38.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "ae6b8b341335e960daff720e26a54842f5704a14275683f4b7b278bc3be8f968",
+        "size": 7142013,
+        "version": "000629JD.1"
+      }
+    ]
+  },
+  "2224": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_IPG-N2-WE2_S38",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:48:18Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2224__000639LE.1__000639LE.1IPC_NT98566_IPG-N2-WE2_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Njk=",
+        "filename": "id2224__000639LE.1__000639LE.1IPC_NT98566_IPG-N2-WE2_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "333e1b4575206989e103ed2418f786d74c32a8739ede9c6267efc11d8f54b8db",
+        "size": 7710055,
+        "version": "000639LE.1"
+      }
+    ]
+  },
+  "2225": {
+    "downloadMenuId": 6,
+    "name": "IPC_NT98566_IPG-N4C-WQ2_S38",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:48:28Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2225__000639N0.1__000639N0.1IPC_NT98566_IPG-N4C-WQ2_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NzE=",
+        "filename": "id2225__000639N0.1__000639N0.1IPC_NT98566_IPG-N4C-WQ2_S38.713g.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "9d8ec965090f20a1b20c50059f2ff7b661cb627267d07c6e2d03ab07421c1876",
+        "size": 7727658,
+        "version": "000639N0.1"
+      }
+    ]
+  },
+  "2226": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_RL50X30-LP_WIFIHI3861L",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:48:35Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2226__0003075d.1__0003075d.1IPC_XM530_RL50X30-LP_WIFIHI3861L.3861l.Nat_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzOTc=",
+        "filename": "id2226__0003075d.1__0003075d.1IPC_XM530_RL50X30-LP_WIFIHI3861L.3861l.Nat_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "6f3c63acc526e9bf8f29a6943253f3e430dfb7f6edddf86bd0b721ab0bf3de77",
+        "size": 7827832,
+        "version": "0003075d.1"
+      }
+    ]
   }
 }
