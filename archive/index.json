@@ -335,6 +335,310 @@
       }
     ]
   },
+  "1327": {
+    "downloadMenuId": 5,
+    "name": "NBD6516T-F",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:40Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMTE=",
+        "version": "00000088"
+      }
+    ]
+  },
+  "1328": {
+    "downloadMenuId": 5,
+    "name": "NBD6516H-G",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:41Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMTI=",
+        "version": "00000089"
+      }
+    ]
+  },
+  "1329": {
+    "downloadMenuId": 5,
+    "name": "MBD6704T-E",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:43Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMTM=",
+        "version": "00000090"
+      }
+    ]
+  },
+  "1330": {
+    "downloadMenuId": 5,
+    "name": "MBD6004S-S",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:44Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMTQ=",
+        "version": "00000092"
+      }
+    ]
+  },
+  "1331": {
+    "downloadMenuId": 5,
+    "name": "MBD6004Q-H",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:46Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMTY=",
+        "version": "00000093"
+      }
+    ]
+  },
+  "1332": {
+    "downloadMenuId": 5,
+    "name": "MBD6804T-EL",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:48Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMTk=",
+        "version": "00000094"
+      }
+    ]
+  },
+  "1333": {
+    "downloadMenuId": 5,
+    "name": "NBD6804T-F",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:51Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjA=",
+        "version": "00000095"
+      }
+    ]
+  },
+  "1334": {
+    "downloadMenuId": 5,
+    "name": "MVB6004D-E",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:53Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjE=",
+        "version": "00000097"
+      }
+    ]
+  },
+  "1335": {
+    "downloadMenuId": 5,
+    "name": "NBD6904T-F",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:54Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjI=",
+        "version": "00000098"
+      }
+    ]
+  },
+  "1336": {
+    "downloadMenuId": 5,
+    "name": "NBD6808T-PL",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:56Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjM=",
+        "version": "00000099"
+      }
+    ]
+  },
+  "1337": {
+    "downloadMenuId": 5,
+    "name": "NKB6009D",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:57Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjQ=",
+        "version": "00000100"
+      }
+    ]
+  },
+  "1338": {
+    "downloadMenuId": 5,
+    "name": "MVB6004L-ES",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:58:59Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjU=",
+        "version": "00000101"
+      }
+    ]
+  },
+  "1339": {
+    "downloadMenuId": 5,
+    "name": "MBD6004G-PL_25930",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:01Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjY=",
+        "version": "00000102"
+      }
+    ]
+  },
+  "1340": {
+    "downloadMenuId": 5,
+    "name": "MBD6004G-PL_25930_8SDI",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:03Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjc=",
+        "version": "00000103"
+      }
+    ]
+  },
+  "1341": {
+    "downloadMenuId": 5,
+    "name": "NBD6908T-PL",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:06Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjg=",
+        "version": "00000104"
+      }
+    ]
+  },
+  "1342": {
+    "downloadMenuId": 5,
+    "name": "NBD6904Q-FS",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:07Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMjk=",
+        "version": "00000105"
+      }
+    ]
+  },
+  "1343": {
+    "downloadMenuId": 5,
+    "name": "NBD7024H-P",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:59:16Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1343__00000107__00000107(NBD7024H-P).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMzA=",
+        "filename": "id1343__00000107__00000107(NBD7024H-P).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "bea1ba1227046d3216110f88ffce2db36d4e3df868d3b3c8c69f7c5cba6c5363",
+        "size": 13499277,
+        "version": "00000107"
+      }
+    ]
+  },
+  "1344": {
+    "downloadMenuId": 5,
+    "name": "MBD6004T-FL",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:18Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMzE=",
+        "version": "00000108"
+      }
+    ]
+  },
+  "1345": {
+    "downloadMenuId": 5,
+    "name": "NBD7816T-F",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:20Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMzI=",
+        "version": "00000109"
+      }
+    ]
+  },
+  "1346": {
+    "downloadMenuId": 5,
+    "name": "MBD6804T_EH",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:21Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMzM=",
+        "version": "00000110"
+      }
+    ]
+  },
+  "1347": {
+    "downloadMenuId": 5,
+    "name": "AHB7016F-M",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:25Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMzQ=",
+        "version": "00000111"
+      }
+    ]
+  },
+  "1348": {
+    "downloadMenuId": 5,
+    "name": "NBD7816T-FS",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:27Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMzU=",
+        "version": "00000113"
+      }
+    ]
+  },
+  "1349": {
+    "downloadMenuId": 5,
+    "name": "AHB7804T-EL",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:28Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMzY=",
+        "version": "00000114"
+      }
+    ]
+  },
+  "1350": {
+    "downloadMenuId": 5,
+    "name": "AHB7008T-LM",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:31Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMzc=",
+        "version": "00000115"
+      }
+    ]
+  },
+  "1351": {
+    "downloadMenuId": 5,
+    "name": "AHB7016T-LM",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:59:32Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxMzg=",
+        "version": "00000116"
+      }
+    ]
+  },
   "1595": {
     "downloadMenuId": 6,
     "name": "IPC_LITEOS_HI3516EV100_50H20L",
