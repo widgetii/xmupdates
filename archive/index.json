@@ -3159,6 +3159,19 @@
       }
     ]
   },
+  "1798": {
+    "data_errors": [
+      {
+        "checked_at": "2026-05-04T11:22:00Z",
+        "downloadUrl": "HI3516D_83H20AF_IVG_2G",
+        "reason": "downloadUrl is not an http(s) URL: 'HI3516D_83H20AF_IVG_2G'",
+        "version": "00039978.1"
+      }
+    ],
+    "downloadMenuId": 6,
+    "name": "https://download.xm030.cn/d/MDAwMDA4Nzg=",
+    "revisions": []
+  },
   "1800": {
     "downloadMenuId": 5,
     "name": "NBD8908T-PL-XPO",
@@ -6306,6 +6319,19 @@
         "version": "000A79YJ.1"
       }
     ]
+  },
+  "2295": {
+    "data_errors": [
+      {
+        "checked_at": "2026-05-04T11:22:00Z",
+        "downloadUrl": "000A09WJ.1",
+        "reason": "downloadUrl is not an http(s) URL: '000A09WJ.1'",
+        "version": ""
+      }
+    ],
+    "downloadMenuId": 6,
+    "name": "IPC_XM535D1_X6M-4GEQ-A",
+    "revisions": []
   },
   "2296": {
     "downloadMenuId": 6,
