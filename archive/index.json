@@ -1431,6 +1431,18 @@
       }
     ]
   },
+  "1414": {
+    "downloadMenuId": 5,
+    "name": "NBD7004R-FWS",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:37:29Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAyMDk=",
+        "version": "00000200"
+      }
+    ]
+  },
   "1415": {
     "downloadMenuId": 5,
     "name": "NBD7004R-PWS",
@@ -2248,6 +2260,18 @@
         "checked_at": "2026-05-04T08:55:39Z",
         "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNzI=",
         "version": "00014913.1"
+      }
+    ]
+  },
+  "1648": {
+    "downloadMenuId": 6,
+    "name": "IPC16D_83H40AF",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:37:27Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNzM=",
+        "version": "00014843.1"
       }
     ]
   },
