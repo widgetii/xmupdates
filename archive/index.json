@@ -330,5 +330,65 @@
         "version": "00020973.1"
       }
     ]
+  },
+  "1622": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518EV200_50H20PE_AF_8188",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:51:07Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNDc=",
+        "version": "00020953.1"
+      }
+    ]
+  },
+  "1623": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518EV200_RC53H13_8188EU_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:51:08Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNDg=",
+        "version": "00020918.1"
+      }
+    ]
+  },
+  "1624": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518EV200_RC50H20_8188EU_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:51:09Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNDk=",
+        "version": "00020917.1"
+      }
+    ]
+  },
+  "1625": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518EV200_RC50H10_8188EU_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:51:10Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNTA=",
+        "version": "00020916.1"
+      }
+    ]
+  },
+  "1626": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518EV200_53H13_8188EU_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:51:11Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNTE=",
+        "version": "00020531.1"
+      }
+    ]
   }
 }
