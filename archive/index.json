@@ -86,5 +86,65 @@
         "version": "00039840.1"
       }
     ]
+  },
+  "1602": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516AV200_83H80N",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:34Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjY=",
+        "version": "00037972.1"
+      }
+    ]
+  },
+  "1603": {
+    "downloadMenuId": 6,
+    "name": "HI3516EV100_50H20L_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:35Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjc=",
+        "version": "00035520.1"
+      }
+    ]
+  },
+  "1604": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516CV300_50H20L_AE",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:36Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjk=",
+        "version": "00031520.1"
+      }
+    ]
+  },
+  "1605": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_50X10-SWL-S_WIFIXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:37Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzA=",
+        "version": "00023669.1"
+      }
+    ]
+  },
+  "1606": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_50X10-SW-S_WIFINVRXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:39Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzE=",
+        "version": "00023668.1"
+      }
+    ]
   }
 }
