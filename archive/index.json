@@ -17,7 +17,7 @@
     "revisions": [
       {
         "archived_at": "2026-05-04T08:43:50Z",
-        "asset_url": "https://github.com/widgetii/xmupdates/releases/download/firmware-archive/id1596__00031942.1__00031942.1IPC_HI3516CV300_83H20AF_2812_AE_V4.03.R12.zip",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1596__00031942.1__00031942.1IPC_HI3516CV300_83H20AF_2812_AE_V4.03.R12.zip",
         "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjg=",
         "filename": "id1596__00031942.1__00031942.1IPC_HI3516CV300_83H20AF_2812_AE_V4.03.R12.zip",
         "release_tag": "firmware-archive",
@@ -189,7 +189,7 @@
     "revisions": [
       {
         "archived_at": "2026-05-04T08:50:52Z",
-        "asset_url": "https://github.com/widgetii/xmupdates/releases/download/firmware-archive/id1610__00023662.1__00023662.1IPC_XM510_RA50X20-C_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1610__00023662.1__00023662.1IPC_XM510_RA50X20-C_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
         "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzU=",
         "filename": "id1610__00023662.1__00023662.1IPC_XM510_RA50X20-C_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
         "release_tag": "firmware-archive",
@@ -481,7 +481,7 @@
     "revisions": [
       {
         "archived_at": "2026-05-04T08:51:27Z",
-        "asset_url": "https://github.com/widgetii/xmupdates/releases/download/firmware-archive/id1634__00018520.1__00018520.1IPC_HI3518EV200_50H20L_S38_V4.02.R12.zip",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1634__00018520.1__00018520.1IPC_HI3518EV200_50H20L_S38_V4.02.R12.zip",
         "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNTk=",
         "filename": "id1634__00018520.1__00018520.1IPC_HI3518EV200_50H20L_S38_V4.02.R12.zip",
         "release_tag": "firmware-archive",
