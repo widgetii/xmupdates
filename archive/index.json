@@ -2835,6 +2835,22 @@
       }
     ]
   },
+  "1744": {
+    "downloadMenuId": 5,
+    "name": "AHB8004R-GS",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:05:10Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1744__0000020R__0000020R(AHB8004R-GS).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4MDM=",
+        "filename": "id1744__0000020R__0000020R(AHB8004R-GS).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "89b83fa3699181e1ac967e4cdaf453a4f4917be9e3f101eb8959ccac82226c19",
+        "size": 14874108,
+        "version": "0000020R"
+      }
+    ]
+  },
   "1745": {
     "downloadMenuId": 6,
     "name": "IPC_HI3516D_83H20-FA_AE_2G",
@@ -2939,6 +2955,38 @@
       }
     ]
   },
+  "1760": {
+    "downloadMenuId": 5,
+    "name": "AHB8016T-LME",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:05:18Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1760__0000020Q__0000020Q(AHB8016T-LME).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MjA=",
+        "filename": "id1760__0000020Q__0000020Q(AHB8016T-LME).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "a00b16cae00621b37821677ba1eeb795861113a1976affc098059af6b12029cb",
+        "size": 15023825,
+        "version": "0000020Q"
+      }
+    ]
+  },
+  "1761": {
+    "downloadMenuId": 5,
+    "name": "AHB8004R-MH",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:05:32Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1761__0000020S__0000020S(AHB8004R-MH).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4MTU=",
+        "filename": "id1761__0000020S__0000020S(AHB8004R-MH).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "0d5dde31868ddc644da83eb2e7dcf91d1d8c4b35d42a4bb1c2e2b21b2d46d44b",
+        "size": 14878995,
+        "version": "0000020S"
+      }
+    ]
+  },
   "1771": {
     "downloadMenuId": 6,
     "name": "HI3516D_83H40W_RT3070",
@@ -2948,6 +2996,18 @@
         "checked_at": "2026-05-04T10:24:03Z",
         "downloadUrl": "https://download.xm030.cn/d/MDAwMDA3MzU=",
         "version": "00014912.1"
+      }
+    ]
+  },
+  "1776": {
+    "downloadMenuId": 5,
+    "name": "AHB8004R-GS-4PWS",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:05:35Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4ODQ=",
+        "version": "0000020Y"
       }
     ]
   },
@@ -2975,6 +3035,22 @@
       }
     ]
   },
+  "1784": {
+    "downloadMenuId": 5,
+    "name": "AHB8008R-LME",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:05:50Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1784__0000020V__0000020V(AHB8008R-LME).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4Mjg=",
+        "filename": "id1784__0000020V__0000020V(AHB8008R-LME).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "2c83b4ce39fc0b08cde56ab70c6663a201ea87944824b1a0abae60b2b270bfd7",
+        "size": 14882229,
+        "version": "0000020V"
+      }
+    ]
+  },
   "1786": {
     "downloadMenuId": 6,
     "name": "IPC_HI3516EV100_53H13L_FD_F4_8188EU",
@@ -2996,6 +3072,34 @@
         "checked_at": "2026-05-04T10:24:15Z",
         "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4MjU=",
         "version": "0002099F.1"
+      }
+    ]
+  },
+  "1790": {
+    "downloadMenuId": 5,
+    "name": "AHB8032F-LME",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:06:09Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1790__0000020X__0000020X(AHB8032F-LME).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4OTQ=",
+        "filename": "id1790__0000020X__0000020X(AHB8032F-LME).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "d2c5f28aa45987137c788a50152025d334d5a4cdea6f6658ea7964623c3815a6",
+        "size": 14872202,
+        "version": "0000020X"
+      }
+    ]
+  },
+  "1791": {
+    "downloadMenuId": 5,
+    "name": "INBD8008T-QV",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:06:10Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4OTk=",
+        "version": "0000020I"
       }
     ]
   },
@@ -3052,6 +3156,70 @@
         "sha256": "2ea74448e4aeb85917dfa08175df1dc5f20fe8757cfbae492674c6246adffef5",
         "size": 6919817,
         "version": "000239A0.1"
+      }
+    ]
+  },
+  "1800": {
+    "downloadMenuId": 5,
+    "name": "NBD8908T-PL-XPO",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:06:12Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA5NjM=",
+        "version": "00000211"
+      }
+    ]
+  },
+  "1801": {
+    "downloadMenuId": 5,
+    "name": "AHB8004R-GS-4PWS2",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:06:13Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA5NzU=",
+        "version": "00000213"
+      }
+    ]
+  },
+  "1802": {
+    "downloadMenuId": 5,
+    "name": "NBD8904T-GS-XPOE",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:06:14Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA5Nzk=",
+        "version": "00000212"
+      }
+    ]
+  },
+  "1803": {
+    "downloadMenuId": 5,
+    "name": "NBD8032H-UL",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:06:24Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1803__0000020Z__0000020Z(NBD8032H-UL).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA5ODc=",
+        "filename": "id1803__0000020Z__0000020Z(NBD8032H-UL).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "ce6c5fffc17be7ac0365fab92796d45eacc50ff5c55015584caf096841e32f52",
+        "size": 14195524,
+        "version": "0000020Z"
+      }
+    ]
+  },
+  "1804": {
+    "downloadMenuId": 5,
+    "name": "AHB8016F-GL",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:06:26Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEwMDA=",
+        "version": "0000020W"
       }
     ]
   },
@@ -3148,6 +3316,22 @@
         "checked_at": "2026-05-04T10:25:25Z",
         "downloadUrl": "https://download.xm030.cn/d/MDAwMDA5Mzc=",
         "version": "0001491A.1"
+      }
+    ]
+  },
+  "1836": {
+    "downloadMenuId": 5,
+    "name": "AHB7804R-MH-V3",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:06:33Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1836__0003114A__0003114A(AHB7804R-MH-V3).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEwMTg=",
+        "filename": "id1836__0003114A__0003114A(AHB7804R-MH-V3).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "2c11ee0c3412c346df1486faff9b77b68b9dda49911753e06bf75ca8ab533487",
+        "size": 7855681,
+        "version": "0003114A"
       }
     ]
   },
@@ -3379,6 +3563,62 @@
       }
     ]
   },
+  "1885": {
+    "downloadMenuId": 5,
+    "name": "AHB7016T-LM-V5",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:06:41Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1885__0000020U__0000020U(AHB7016T-LM-V5).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDExNTc=",
+        "filename": "id1885__0000020U__0000020U(AHB7016T-LM-V5).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "4c2ebbc8fa7df0438e9740db389a86826cc12bb8d453bbcf2857e0237f375d8d",
+        "size": 12728101,
+        "version": "0000020U"
+      }
+    ]
+  },
+  "1886": {
+    "downloadMenuId": 5,
+    "name": "AHB8032F-LM",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:06:43Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MjI=",
+        "version": "0000020P"
+      }
+    ]
+  },
+  "1887": {
+    "downloadMenuId": 5,
+    "name": "MVR7004V-LM",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:06:53Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1887__0000020J__0000020J(MVR7004V-LM).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAyMjI=",
+        "filename": "id1887__0000020J__0000020J(MVR7004V-LM).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "00a6028c22fd40742e209e7f3b8ed06b788b7d119f6c03d92872882b1338cce7",
+        "size": 12032703,
+        "version": "0000020J"
+      }
+    ]
+  },
+  "1888": {
+    "downloadMenuId": 5,
+    "name": "NBD8008R-YL-EP",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T11:06:54Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAyMjM=",
+        "version": "00000206"
+      }
+    ]
+  },
   "1890": {
     "downloadMenuId": 6,
     "name": "IPC_XM550_50X40-SW_WIFIXM712",
@@ -3456,6 +3696,22 @@
         "sha256": "7c94a587716b00efd77869f69176646b296bf51f252b7aee9246ec3f763ab4b3",
         "size": 6669830,
         "version": "00030698.1"
+      }
+    ]
+  },
+  "1900": {
+    "downloadMenuId": 5,
+    "name": "AHB8804R-LMS",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:07:02Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1900__0003121H__0003121H(AHB8804R-LMS).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDExOTc=",
+        "filename": "id1900__0003121H__0003121H(AHB8804R-LMS).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "1cf633a774c07b0189536d5906c881639f26612f95591dfaaafb1b1379427144",
+        "size": 7773568,
+        "version": "0003121H"
       }
     ]
   },
@@ -3907,6 +4163,22 @@
       }
     ]
   },
+  "1976": {
+    "downloadMenuId": 5,
+    "name": "NBD8004RA-ULA",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:07:12Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1976__0000021Q__0000021Q1(NBD8004RA-ULA).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNzI=",
+        "filename": "id1976__0000021Q__0000021Q1(NBD8004RA-ULA).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "c2b10323bc43e380b59404c88b25a732d912ee50d956d5de472b6fd73a679584",
+        "size": 13400466,
+        "version": "0000021Q"
+      }
+    ]
+  },
   "1977": {
     "downloadMenuId": 6,
     "name": "IPC_XM530_50X20-SWB_WIFIXM711.",
@@ -3968,6 +4240,22 @@
         "sha256": "e720780ff5922c6b4591cce0f9e7c71f7784185400f1ea3789ecbaf32b69c647",
         "size": 6707649,
         "version": "0003067c.1"
+      }
+    ]
+  },
+  "1985": {
+    "downloadMenuId": 5,
+    "name": "NBD8008R-PWS-V2",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:07:24Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1985__0000021L__0000021L(NBD8008R-PWS-V2).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyODg=",
+        "filename": "id1985__0000021L__0000021L(NBD8008R-PWS-V2).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "851c9b905b7ff87e98351f0932bcd4c1371f05d1b59849c346df16c984329666",
+        "size": 14772800,
+        "version": "0000021L"
       }
     ]
   },
@@ -4259,6 +4547,22 @@
       }
     ]
   },
+  "2019": {
+    "downloadMenuId": 5,
+    "name": "AHB7804R-LMS-V5",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:07:32Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2019__0003121G__0003121G(AHB7804R-LMS-V5).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzNDQ=",
+        "filename": "id2019__0003121G__0003121G(AHB7804R-LMS-V5).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "b4ef838cb027c35c961f2e9c8dc5cd853ffd7da08bc8b25fc09c4653f3aca714",
+        "size": 7582275,
+        "version": "0003121G"
+      }
+    ]
+  },
   "2020": {
     "downloadMenuId": 6,
     "name": "IPC_XM530_RA50X20-SUN-4G",
@@ -4371,6 +4675,22 @@
       }
     ]
   },
+  "2031": {
+    "downloadMenuId": 5,
+    "name": "AHB8004R-MH-NVT",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:07:49Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2031__00000227__00000227(AHB8004R-MH-NVT).zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzMjY=",
+        "filename": "id2031__00000227__00000227(AHB8004R-MH-NVT).zip",
+        "release_tag": "firmware-archive",
+        "sha256": "1d56609b88baa81d40e7ce5deb3af4530788ad7c1a8f085590047a52a74e5eca",
+        "size": 12994054,
+        "version": "00000227"
+      }
+    ]
+  },
   "2032": {
     "downloadMenuId": 6,
     "name": "XM530_85X20T.Nat.dss.OnvifS.",
@@ -4403,6 +4723,38 @@
       }
     ]
   },
+  "2039": {
+    "downloadMenuId": 5,
+    "name": "AHB88X04R-LM",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:07:58Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2039__00031239__00031239\uff08AHB88X04R-LM\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzODg=",
+        "filename": "id2039__00031239__00031239\uff08AHB88X04R-LM\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "78744a4ff86b4cfb70f51d827699efd1de53b155cad4f92bf26df2307b1e85a8",
+        "size": 7789800,
+        "version": "00031239"
+      }
+    ]
+  },
+  "2042": {
+    "downloadMenuId": 5,
+    "name": "AHB80X04R-MH",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:08:12Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2042__0000023A__0000023A\uff08AHB80X04R-MH\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzODQ=",
+        "filename": "id2042__0000023A__0000023A\uff08AHB80X04R-MH\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "ad4ee057ab9c3fa475b398e80f0956b67cbeed590021193bd78c5ea15ab6b062",
+        "size": 11468902,
+        "version": "0000023A"
+      }
+    ]
+  },
   "2044": {
     "downloadMenuId": 6,
     "name": "IPC_XM550_85X50T.Nat.dss",
@@ -4432,6 +4784,22 @@
         "sha256": "95fc788af51743b4fae4af5170d8245c144921b02339ccf205e5371c79b3dfac",
         "size": 33566651,
         "version": "000309F8.1"
+      }
+    ]
+  },
+  "2050": {
+    "downloadMenuId": 5,
+    "name": "AHB80N04T-GL",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:08:29Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2050__0000023H__0000023H\uff08AHB80N04T-GL\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEzNzQ=",
+        "filename": "id2050__0000023H__0000023H\uff08AHB80N04T-GL\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "03c81e2e0722a5a4620f922337846033a1a992dad6d825c66756c2e198ce8999",
+        "size": 13571880,
+        "version": "0000023H"
       }
     ]
   },
