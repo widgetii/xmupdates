@@ -1794,5 +1794,405 @@
         "version": "00030686.1"
       }
     ]
+  },
+  "1892": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-WN_WIFINVRXM713",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:28:53Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1892__00030680.1__00030680.1IPC_XM530_50X20-WN_WIFINVRXM713.713.Nat_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDExODU=",
+        "filename": "id1892__00030680.1__00030680.1IPC_XM530_50X20-WN_WIFINVRXM713.713.Nat_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "05431b66a72fa74ff8912144758aa4461bc0b18fe731dbb15a260ed0f84267da",
+        "size": 25885095,
+        "version": "00030680.1"
+      }
+    ]
+  },
+  "1893": {
+    "downloadMenuId": 6,
+    "name": "DXM530_BMS50X20.",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:29:02Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1893__0003021.1__0003021D.1XM530_BMS50X20.Nat.dss_V4.03.R15.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDExOTI=",
+        "filename": "id1893__0003021.1__0003021D.1XM530_BMS50X20.Nat.dss_V4.03.R15.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "f461a4f9ea671b006425fd595fcee217c386cf2b7d81dc1fc2b6c00ccb685ba7",
+        "size": 12951630,
+        "version": "0003021.1"
+      }
+    ]
+  },
+  "1899": {
+    "downloadMenuId": 6,
+    "name": "XM550_RA50X40_WIFIXM711",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:29:13Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1899__00030698.1__00030698.1IPC_XM550_RA50X40_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDExOTY=",
+        "filename": "id1899__00030698.1__00030698.1IPC_XM550_RA50X40_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "7c94a587716b00efd77869f69176646b296bf51f252b7aee9246ec3f763ab4b3",
+        "size": 6669830,
+        "version": "00030698.1"
+      }
+    ]
+  },
+  "1901": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516EV300_50H20AI",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:29:23Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1901__000529A7.1__000529A7.1IPC_HI3516EV300_50H20AI.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMDE=",
+        "filename": "id1901__000529A7.1__000529A7.1IPC_HI3516EV300_50H20AI.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "47d934e456fbb92f6c7a74591147332f79f7ac3cd7e20302c169cfb3854ef745",
+        "size": 9360099,
+        "version": "000529A7.1"
+      }
+    ]
+  },
+  "1902": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM550_85X20-FI.Nat.dss",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:29:33Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1902__00030685.1__00030685.1IPC_XM550_85X20-FI.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMDM=",
+        "filename": "id1902__00030685.1__00030685.1IPC_XM550_85X20-FI.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "d5656151c2f270c09057d31b6092360ede8f768a7ee861b9381432b010357771",
+        "size": 13952607,
+        "version": "00030685.1"
+      }
+    ]
+  },
+  "1904": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM550_50X50-SW_WIFIXM712",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:29:40Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1904__00030675.1__00030675.1IPC_XM550_50X50-SW_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMDU=",
+        "filename": "id1904__00030675.1__00030675.1IPC_XM550_50X50-SW_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "e3c30849e95fa22ae30063bc64380ed651bcbcbd303e3c2fc828a77a61989b5a",
+        "size": 6616893,
+        "version": "00030675.1"
+      }
+    ]
+  },
+  "1905": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM550_83X40.Nat.dss.OnvifS",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:29:52Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1905__00030697.1__00030697.1IPC_XM550_83X40.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMDk=",
+        "filename": "id1905__00030697.1__00030697.1IPC_XM550_83X40.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "5f230a34483c81fce643894e611deffa73d691fbc8ba6a1bc92fcfdcd40f7290",
+        "size": 29565044,
+        "version": "00030697.1"
+      }
+    ]
+  },
+  "1906": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_RA50X10_WIFIXM711",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:29:59Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1906__00030652.1__00030652.1IPC_XM530_RA50X10_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMTE=",
+        "filename": "id1906__00030652.1__00030652.1IPC_XM530_RA50X10_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "3b7d4ae658f74edc443d05a5f2313c737268b3970701b7388ef99d3e3500d832",
+        "size": 6773067,
+        "version": "00030652.1"
+      }
+    ]
+  },
+  "1909": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-4G",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:30:06Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1909__000306a4.1__000306a4.1IPC_XM530_50X20-4G.Nat.dss_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMTQ=",
+        "filename": "id1909__000306a4.1__000306a4.1IPC_XM530_50X20-4G.Nat.dss_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "5940d5b3416ce74fcffb2d74ce0e2ba71c524ba90e2a65ba2a267cfcd01833ca",
+        "size": 5977541,
+        "version": "000306a4.1"
+      }
+    ]
+  },
+  "1928": {
+    "downloadMenuId": 6,
+    "name": "IPC_LITEOS_HI3518EV300_KA53H20L_S38_HI1131",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:30:13Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1928__00057997.1__00057997.1IPC_LITEOS_HI3518EV300_KA53H20L_S38_HI1131_V1.01.LITEOS.R01.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMzA=",
+        "filename": "id1928__00057997.1__00057997.1IPC_LITEOS_HI3518EV300_KA53H20L_S38_HI1131_V1.01.LITEOS.R01.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "f2e64e03975ea46154eeacd7558233f5dacf66f50719f5e8fc51294edfb5f236",
+        "size": 5363620,
+        "version": "00057997.1"
+      }
+    ]
+  },
+  "1929": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM550_N50X40_WIFIXM712.712.Nat.dss.",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:30:22Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1929__000306a0.1__000306a0.1IPC_XM550_N50X40_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMjc=",
+        "filename": "id1929__000306a0.1__000306a0.1IPC_XM550_N50X40_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "40d7588b4cdb13b420cc067103df2b00c04ad2c7ee8041ffe37cd888ef388bce",
+        "size": 6632093,
+        "version": "000306a0.1"
+      }
+    ]
+  },
+  "1930": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_RB50X20-4G.Nat.dss",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:30:30Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1930__000306a5.1__000306a5.1IPC_XM530_RB50X20-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMjU=",
+        "filename": "id1930__000306a5.1__000306a5.1IPC_XM530_RB50X20-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "3be68366abaf40233daf20c6471c3728003207dd762afc0dd43852482d7df706",
+        "size": 7381574,
+        "version": "000306a5.1"
+      }
+    ]
+  },
+  "1931": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_85X20.Nat.dss.",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:30:42Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1931__0003068b.1__0003068b.1IPC_XM530_85X20.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNDM=",
+        "filename": "id1931__0003068b.1__0003068b.1IPC_XM530_85X20.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "43f7dc558f78551051da3e508405f4deb87e9b1b521b66a651a77808b254ecd1",
+        "size": 24537771,
+        "version": "0003068b.1"
+      }
+    ]
+  },
+  "1932": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-WG_WIFIXM711",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:30:50Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1932__000309C1.1__000309C1.1IPC_XM530_50X20-WG_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNDE=",
+        "filename": "id1932__000309C1.1__000309C1.1IPC_XM530_50X20-WG_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "b4e885f273a7b32a98bcbf85d1e805a12cd18b87eda97d4fa5f6d5a007c30a3c",
+        "size": 6698176,
+        "version": "000309C1.1"
+      }
+    ]
+  },
+  "1933": {
+    "downloadMenuId": 6,
+    "name": " IPC_XM530_RA50X20-4G",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:30:56Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1933__000309C0.1__000309C0.1IPC_XM530_RA50X20-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNDA=",
+        "filename": "id1933__000309C0.1__000309C0.1IPC_XM530_RA50X20-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "2e7d73aa8013605acfe1284b2a5ced6a99bbd00a1ecbdc3fc3437b78fec3c335",
+        "size": 6093537,
+        "version": "000309C0.1"
+      }
+    ]
+  },
+  "1934": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-EG.Nat.dss.OnvifS",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:31:03Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1934__000306a7.1__000306a7.1IPC_XM530_50X20-EG-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMzM=",
+        "filename": "id1934__000306a7.1__000306a7.1IPC_XM530_50X20-EG-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "fdf4484a439c1177569b0d0d9b34deeb03df8194905a442bd4cb150614ce0f42",
+        "size": 7424144,
+        "version": "000306a7.1"
+      }
+    ]
+  },
+  "1950": {
+    "downloadMenuId": 6,
+    "name": "IPC_LITEOS_HI3518EV300_50H20L-DB_S38_HI1131",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:31:10Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1950__00057936.1__00057936.1IPC_LITEOS_HI3518EV300_50H20L-DB_S38_HI1131_V1.01.LITEOS.R01.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNDY=",
+        "filename": "id1950__00057936.1__00057936.1IPC_LITEOS_HI3518EV300_50H20L-DB_S38_HI1131_V1.01.LITEOS.R01.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "f773408c600e1a9f8caa4f6e341fa1929c5a671d63943feb051fb74e94cb3636",
+        "size": 5227717,
+        "version": "00057936.1"
+      }
+    ]
+  },
+  "1951": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-FK_WIFIXM711",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:31:17Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1951__000309BD.1__000309BD.1IPC_XM530_50X20-FK_WIFIXM711.711.Nat.dss_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNDc=",
+        "filename": "id1951__000309BD.1__000309BD.1IPC_XM530_50X20-FK_WIFIXM711.711.Nat.dss_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "edb3d1836a47720fc34f5fa246a0a17f55c7381479c70530c8fafce294ebfa31",
+        "size": 5451442,
+        "version": "000309BD.1"
+      }
+    ]
+  },
+  "1952": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-ELG-4G",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:31:27Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1952__000306ac.1__000306ac.1IPC_XM530_50X20-ELG-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNDU=",
+        "filename": "id1952__000306ac.1__000306ac.1IPC_XM530_50X20-ELG-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "2cb163fb0ac379c4a8815cb2bdbe63181c703f18b16b4bf303e185c4d2593388",
+        "size": 7433622,
+        "version": "000306ac.1"
+      }
+    ]
+  },
+  "1955": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-WGL_WIFIXM711",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:31:38Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1955__000306ad.1__000306ad.1IPC_XM530_50X20-WGL_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNTI=",
+        "filename": "id1955__000306ad.1__000306ad.1IPC_XM530_50X20-WGL_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "9aa975c04c34efc3d84f0ff63bced63a7275574ddb78537198a21d9f39753dd7",
+        "size": 6756303,
+        "version": "000306ad.1"
+      }
+    ]
+  },
+  "1956": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-WNH_WIFINVRXM713G_TB.713g",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:32:09Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1956__0003067a.1__0003067a.1IPC_XM530_50X20-WNH_WIFINVRXM713G_TB.713g.Nat_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNTE=",
+        "filename": "id1956__0003067a.1__0003067a.1IPC_XM530_50X20-WNH_WIFINVRXM713G_TB.713g.Nat_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "2830d4252d71eb714f4dc7294dda01708a0404fdd8adf3974028360744e29e3f",
+        "size": 26546183,
+        "version": "0003067a.1"
+      }
+    ]
+  },
+  "1957": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-CARD_WIFIXM711",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:32:17Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1957__0003069f.1__0003069f.1IPC_XM530_50X20-CARD_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyMTM=",
+        "filename": "id1957__0003069f.1__0003069f.1IPC_XM530_50X20-CARD_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "1114253ec139290a31ab4b68d63e6b826d3e50367df592f75add03d70c520d1b",
+        "size": 6779626,
+        "version": "0003069f.1"
+      }
+    ]
+  },
+  "1958": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM550_50X20-HTH.Nat.dss",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:32:25Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1958__00030677.1__00030677.1IPC_XM550_50X20-HTH.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDExMDU=",
+        "filename": "id1958__00030677.1__00030677.1IPC_XM550_50X20-HTH.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "5105d735478bb01f89377291d9c9df04437ebd944f9002848082479ab4034877",
+        "size": 7349524,
+        "version": "00030677.1"
+      }
+    ]
+  },
+  "1964": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM530_50X20-GL-4G.Nat.dss.OnvifS",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:32:37Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1964__000306ae.1__000306ae.1IPC_XM530_50X20-GL-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNTU=",
+        "filename": "id1964__000306ae.1__000306ae.1IPC_XM530_50X20-GL-4G.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "284146187f7e1d89ff786d17bd298b6c3c9b399086b9fcb969cbedcb79e034bd",
+        "size": 5945261,
+        "version": "000306ae.1"
+      }
+    ]
+  },
+  "1967": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM550_50X40-WG_WIFIXM711.711",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:32:44Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1967__0003068a.1__0003068a.1IPC_XM550_50X40-WG_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDEyNTk=",
+        "filename": "id1967__0003068a.1__0003068a.1IPC_XM550_50X40-WG_WIFIXM711.711.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "f56a11e676f0e5bd0550c255e7c031c810898a3600b3944178ca9dc5a74d70f2",
+        "size": 6771665,
+        "version": "0003068a.1"
+      }
+    ]
   }
 }
