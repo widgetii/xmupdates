@@ -6243,6 +6243,22 @@
       }
     ]
   },
+  "2287": {
+    "downloadMenuId": 5,
+    "name": "AHB80N16T-LME-V3",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:13:53Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2287__0000024S__0000024S\uff08AHB80N16T-LME-V3\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE2MDY=",
+        "filename": "id2287__0000024S__0000024S\uff08AHB80N16T-LME-V3\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "7e3920085c51d5d4e10fc4a8eb60d244b97d579ecd264380cdf9197b4cb73f61",
+        "size": 15273230,
+        "version": "0000024S"
+      }
+    ]
+  },
   "2292": {
     "downloadMenuId": 6,
     "name": "IPC_XM210_X2-WR-T_S38",
@@ -6339,6 +6355,38 @@
       }
     ]
   },
+  "2299": {
+    "downloadMenuId": 5,
+    "name": "NBD80N16RA-KL-V3",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:14:09Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2299__C638024Y__C638024Y\uff08NBD80N16RA-KL-V3\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NTc=",
+        "filename": "id2299__C638024Y__C638024Y\uff08NBD80N16RA-KL-V3\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "e49a0c6392953f2615dfd25a598e0b6c64343838002f4ee88721cc34174ba339",
+        "size": 12250538,
+        "version": "C638024Y"
+      }
+    ]
+  },
+  "2300": {
+    "downloadMenuId": 5,
+    "name": "NBD80N36RA-KL-V3",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:14:29Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2300__C638025B__C638025B\uff08NBD80N36RA-KL-V3\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE2NzU=",
+        "filename": "id2300__C638025B__C638025B\uff08NBD80N36RA-KL-V3\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "7e8c606dc7ce6a89a28d3e6b91bbf2bbdb192add0bfab3dd8f4c029498e19d41",
+        "size": 13977287,
+        "version": "C638025B"
+      }
+    ]
+  },
   "2301": {
     "downloadMenuId": 6,
     "name": "IPC_XM232_X6S-WEQ-H_S38_WIFI",
@@ -6368,6 +6416,22 @@
         "sha256": "8a99e4beca9124c65b5383f2168629432cbdce97117f7d1648bedb98f19685b7",
         "size": 11029441,
         "version": "000A79YO"
+      }
+    ]
+  },
+  "2303": {
+    "downloadMenuId": 5,
+    "name": "AHB88X04R-LM-V3",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:14:39Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2303__00031252__00031252\uff08AHB88X04R-LM-V3\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE3OTU=",
+        "filename": "id2303__00031252__00031252\uff08AHB88X04R-LM-V3\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "1e00da158674b4f991a364eb0f4128a7e38acae9b3939cd80f781c9a5f65dbc0",
+        "size": 7833414,
+        "version": "00031252"
       }
     ]
   },
@@ -6403,6 +6467,22 @@
       }
     ]
   },
+  "2306": {
+    "downloadMenuId": 5,
+    "name": "NBD88X16S-KL-V3",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:14:47Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2306__C6380251__C6380251\uff08NBD88X16S-KL-V3\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1Njc=",
+        "filename": "id2306__C6380251__C6380251\uff08NBD88X16S-KL-V3\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "224bbf1d252c092248c2d154903da9a949bdf5d7827c4575a2f64459f19c0a2d",
+        "size": 7584971,
+        "version": "C6380251"
+      }
+    ]
+  },
   "2307": {
     "downloadMenuId": 6,
     "name": "\nIPC_GK7201V200_G3C_S38\n",
@@ -6432,6 +6512,22 @@
         "sha256": "7da17b67ec441ce07d83d26ceab699069190d3be25b1c763398afcffea08f55c",
         "size": 10961620,
         "version": "000A79W5"
+      }
+    ]
+  },
+  "2309": {
+    "downloadMenuId": 5,
+    "name": "NBD88X16S-KL-V3",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T11:14:55Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2309__00031251__00031251\uff08NBD88X16S-KL-V3\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE1NzQ=",
+        "filename": "id2309__00031251__00031251\uff08NBD88X16S-KL-V3\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "dbeaa090dbddeb2832e7eda2acc69769ce1dc8cdd3694e192526a3c3bc7b08a2",
+        "size": 7795769,
+        "version": "00031251"
       }
     ]
   },
