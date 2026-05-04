@@ -450,5 +450,69 @@
         "version": "00018813.1"
       }
     ]
+  },
+  "1632": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516CV200_53H20L_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:51:19Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNTc=",
+        "version": "00018532.1"
+      }
+    ]
+  },
+  "1633": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518EV200_53H13_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:51:20Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNTg=",
+        "version": "00018531.1"
+      }
+    ]
+  },
+  "1634": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518EV200_50H20L_S38",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T08:51:27Z",
+        "asset_url": "https://github.com/widgetii/xmupdates/releases/download/firmware-archive/id1634__00018520.1__00018520.1IPC_HI3518EV200_50H20L_S38_V4.02.R12.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNTk=",
+        "filename": "id1634__00018520.1__00018520.1IPC_HI3518EV200_50H20L_S38_V4.02.R12.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "fafdd7de17835763c3bfce8d5a6afc80bb4f94747dbf3ee030fac967d3169192",
+        "size": 6673886,
+        "version": "00018520.1"
+      }
+    ]
+  },
+  "1635": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518EV200_50H10L_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:51:28Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNjA=",
+        "version": "00018510.1"
+      }
+    ]
+  },
+  "1636": {
+    "downloadMenuId": 6,
+    "name": "IPC_GM8135S_RM50V10_8188EU",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:51:29Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzNjE=",
+        "version": "00017535.1"
+      }
+    ]
   }
 }
