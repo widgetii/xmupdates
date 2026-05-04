@@ -1102,5 +1102,325 @@
         "version": "00014911.1"
       }
     ]
+  },
+  "1687": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516CV300_50H20L_AE_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:08Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MTI=",
+        "version": "00022520.1"
+      }
+    ]
+  },
+  "1688": {
+    "downloadMenuId": 6,
+    "name": "General_XM510_RA50X10_WIFI",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:10Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MTM=",
+        "version": "00023652.1"
+      }
+    ]
+  },
+  "1689": {
+    "downloadMenuId": 6,
+    "name": "General_XM510_50X10-SWI_WIFIXM712.712",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:23:18Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1689__00023658.1__00023658.1IPC_XM510_50X10-SWI_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MTQ=",
+        "filename": "id1689__00023658.1__00023658.1IPC_XM510_50X10-SWI_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "9d35b2971ab53c9f5c8cfc34578f7c2cc22fbcb3b6e47cbac52e459dfedfd80b",
+        "size": 6775289,
+        "version": "00023658.1"
+      }
+    ]
+  },
+  "1690": {
+    "downloadMenuId": 6,
+    "name": "IPC53H20L",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:20Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MTU=",
+        "version": "00001532.1"
+      }
+    ]
+  },
+  "1692": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516C_53H20AF_2880_RT3070",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:21Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MTc=",
+        "version": "00001929.1"
+      }
+    ]
+  },
+  "1693": {
+    "downloadMenuId": 6,
+    "name": "IPC18E_50H10Q_S",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:23Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MTg=",
+        "version": "00006210.1"
+      }
+    ]
+  },
+  "1694": {
+    "downloadMenuId": 6,
+    "name": "IPC50H20L_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:24Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA0MTk=",
+        "version": "00002520.1"
+      }
+    ]
+  },
+  "1695": {
+    "downloadMenuId": 6,
+    "name": "IPC_LITEOS_HI3518EV200_KA53H20L_S38_HI1131",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:23:30Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1695__00034997.1__00034997.1IPC_LITEOS_HI3518EV200_KA53H20L_S38_HI1131_V1.01.LITEOS.R01.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA1OTE=",
+        "filename": "id1695__00034997.1__00034997.1IPC_LITEOS_HI3518EV200_KA53H20L_S38_HI1131_V1.01.LITEOS.R01.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "1e3359cb4c94f0dc8f5e55eaeeb65470c715e7f6425e259756574f020bd54fee",
+        "size": 4391286,
+        "version": "00034997.1"
+      }
+    ]
+  },
+  "1696": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518C_53H13_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:32Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMTc=",
+        "version": "00002531.1"
+      }
+    ]
+  },
+  "1745": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516D_83H20-FA_AE_2G",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:33Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAxNzk=",
+        "version": "00039917.1"
+      }
+    ]
+  },
+  "1746": {
+    "downloadMenuId": 6,
+    "name": "IPC_LITEOS_HI3516EV100_50H20L.Nat",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:35Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAyMTA=",
+        "version": "00041520.1"
+      }
+    ]
+  },
+  "1747": {
+    "downloadMenuId": 6,
+    "name": "IPC_LITEOS_HI3518EV201_50H10L_S38_HI1131",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:37Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA3OTQ=",
+        "version": "00038510.1"
+      }
+    ]
+  },
+  "1748": {
+    "downloadMenuId": 6,
+    "name": "IPC_LITEOS_HI3518EV201_KA50H10L_S38_HI1131",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:23:48Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1748__00038710.1__00038710.1IPC_LITEOS_HI3518EV201_KA50H10L_S38_HI1131_V1.01.LITEOS.R01.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA3ODk=",
+        "filename": "id1748__00038710.1__00038710.1IPC_LITEOS_HI3518EV201_KA50H10L_S38_HI1131_V1.01.LITEOS.R01.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "780b5038999a811158a53bebc7b36cf3da8910ee632d190f67149898311da6bd",
+        "size": 4359789,
+        "version": "00038710.1"
+      }
+    ]
+  },
+  "1749": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516D_83H50N",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:23:57Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1749__00014927.1__00014927.1IPC_HI3516D_83H50N_V4.03.R12.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA3ODg=",
+        "filename": "id1749__00014927.1__00014927.1IPC_HI3516D_83H50N_V4.03.R12.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "a18d5113c735554b31f48d459d70c7412e0539f79584b136e66f9f37c169f4e3",
+        "size": 9452275,
+        "version": "00014927.1"
+      }
+    ]
+  },
+  "1750": {
+    "downloadMenuId": 6,
+    "name": "IPC_LITEOS_HI3516EV100_50H30L_S38.Nat.dss",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:23:59Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA3NTQ=",
+        "version": "00041863.1"
+      }
+    ]
+  },
+  "1751": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_RA50X20_WIFIXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:24:00Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA3NTI=",
+        "version": "00023665.1"
+      }
+    ]
+  },
+  "1752": {
+    "downloadMenuId": 6,
+    "name": "XM510_50X10-SW_WIFINVRXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:24:02Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAyOTY=",
+        "version": "00023655.1"
+      }
+    ]
+  },
+  "1771": {
+    "downloadMenuId": 6,
+    "name": "HI3516D_83H40W_RT3070",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:24:03Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA3MzU=",
+        "version": "00014912.1"
+      }
+    ]
+  },
+  "1779": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_50X20-SWCL_WIFIXM712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:24:06Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4NzI=",
+        "version": "00023667.1"
+      }
+    ]
+  },
+  "1782": {
+    "downloadMenuId": 6,
+    "name": "IPC_LITEOS_HI3518EV200_53H20L_S38_HI1131",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:24:08Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4NDI=",
+        "version": "00034532.1"
+      }
+    ]
+  },
+  "1786": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516EV100_53H13L_FD_F4_8188EU",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:24:09Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4MjY=",
+        "version": "0002299E.1"
+      }
+    ]
+  },
+  "1787": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3518EV200_50H10L_FD_8188EU_S38",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:24:15Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4MjU=",
+        "version": "0002099F.1"
+      }
+    ]
+  },
+  "1794": {
+    "downloadMenuId": 6,
+    "name": "HZXM_IPC_HI3516EV100_50H20L_E_S38_8188EU",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T10:24:22Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id1794__00022991.1__00022991.1IPC_HI3516EV100_50H20L_E_S38_8188EU_V4.02.R12.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA5MjU=",
+        "filename": "id1794__00022991.1__00022991.1IPC_HI3516EV100_50H20L_E_S38_8188EU_V4.02.R12.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "e03bfc9bae91e1ee44bc14152bc3a2f19604025bfd579ed41da9dd4c75ae4be3",
+        "size": 6937418,
+        "version": "00022991.1"
+      }
+    ]
+  },
+  "1795": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_50X10-SWI-S_WIFIXM712.712 ",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:24:23Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA5MDg=",
+        "version": "000239A1.1"
+      }
+    ]
+  },
+  "1796": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_50X10-SWC-S_WIFINVRXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T10:24:25Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDA4OTU=",
+        "version": "00023670.1"
+      }
+    ]
   }
 }
