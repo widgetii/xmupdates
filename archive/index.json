@@ -146,5 +146,69 @@
         "version": "00023668.1"
       }
     ]
+  },
+  "1607": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_50X20-SWC_WIFIXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:41Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzI=",
+        "version": "00023666.1"
+      }
+    ]
+  },
+  "1608": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_50X10-SWCL_WIFIXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:42Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzM=",
+        "version": "00023664.1"
+      }
+    ]
+  },
+  "1609": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_50X30-SWL_WIFIXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:43Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzQ=",
+        "version": "00023663.1"
+      }
+    ]
+  },
+  "1610": {
+    "downloadMenuId": 6,
+    "name": "IPC_XM510_RA50X20-C_WIFIXM712.712",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T08:50:52Z",
+        "asset_url": "https://github.com/widgetii/xmupdates/releases/download/firmware-archive/id1610__00023662.1__00023662.1IPC_XM510_RA50X20-C_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzU=",
+        "filename": "id1610__00023662.1__00023662.1IPC_XM510_RA50X20-C_WIFIXM712.712.Nat.dss.OnvifS_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "82006ebfd30aa5339ce808de3eff0d5dba3bbf3009fa0ce2ca619455937fe1af",
+        "size": 6810391,
+        "version": "00023662.1"
+      }
+    ]
+  },
+  "1611": {
+    "downloadMenuId": 6,
+    "name": "XM510_50X20-SWL_WIFIXM712.712",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:50:53Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMzY=",
+        "version": "00023661.1"
+      }
+    ]
   }
 }
