@@ -1,0 +1,50 @@
+{
+  "1595": {
+    "downloadMenuId": 6,
+    "name": "IPC_LITEOS_HI3516EV100_50H20L",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:42:53Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjc=",
+        "version": "00041520.1"
+      }
+    ]
+  },
+  "1597": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516EV100_N80320N",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:43:04Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjE=",
+        "version": "00040985.1"
+      }
+    ]
+  },
+  "1598": {
+    "downloadMenuId": 6,
+    "name": "HI3516EV100_N81820N",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:43:05Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjI=",
+        "version": "00040983.1"
+      }
+    ]
+  },
+  "1599": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516EV100_50H20L",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:43:07Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjM=",
+        "version": "00040520.1"
+      }
+    ]
+  }
+}
