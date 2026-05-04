@@ -11,6 +11,22 @@
       }
     ]
   },
+  "1596": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516CV300_83H20AF_2812_AE",
+    "revisions": [
+      {
+        "archived_at": "2026-05-04T08:43:50Z",
+        "asset_url": "https://github.com/widgetii/xmupdates/releases/download/firmware-archive/id1596__00031942.1__00031942.1IPC_HI3516CV300_83H20AF_2812_AE_V4.03.R12.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjg=",
+        "filename": "id1596__00031942.1__00031942.1IPC_HI3516CV300_83H20AF_2812_AE_V4.03.R12.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "dade51f4ab6de31d922162db502ee62ffda0e8509712eab763da625e69243271",
+        "size": 10835136,
+        "version": "00031942.1"
+      }
+    ]
+  },
   "1597": {
     "downloadMenuId": 6,
     "name": "IPC_HI3516EV100_N80320N",
@@ -44,6 +60,30 @@
         "checked_at": "2026-05-04T08:43:07Z",
         "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjM=",
         "version": "00040520.1"
+      }
+    ]
+  },
+  "1600": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516D_82H40AF_AE_2G_RT3070",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:43:52Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjQ=",
+        "version": "00039922.1"
+      }
+    ]
+  },
+  "1601": {
+    "downloadMenuId": 6,
+    "name": "IPC_HI3516D_83H40_2G_RT3070",
+    "revisions": [],
+    "unavailable": [
+      {
+        "checked_at": "2026-05-04T08:43:53Z",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDAzMjU=",
+        "version": "00039840.1"
       }
     ]
   }
