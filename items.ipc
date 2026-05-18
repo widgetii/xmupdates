@@ -2327,7 +2327,63 @@
             "name": "IPC_GK7205V200_G4H_S38",
             "usage": "",
             "version": "000659SQ"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE4NzU=",
+            "id": 2317,
+            "name": "IPC_XM210_X2P-WR-T_S38_WIFI\n",
+            "usage": "",
+            "version": "000999Y0"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE4Njg=",
+            "id": 2318,
+            "name": "IPC_RV1103_LPG-R6C-4GE2Q_4G\n",
+            "usage": "",
+            "version": "000A79ZH"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE4ODQ=",
+            "id": 2319,
+            "name": "IPC_GK7201V200_G4-WEQ_S38_WIFI\n",
+            "usage": "",
+            "version": "000929Y3"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE4NTc=",
+            "id": 2320,
+            "name": "IPC_XM232_X4C-WER-H_S38_WIFI\n",
+            "usage": "",
+            "version": "000A19WT"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE3MjI=",
+            "id": 2322,
+            "name": "IPC_GK7205V500_G5SF\n",
+            "usage": "",
+            "version": "000889S3"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE3MTI=",
+            "id": 2323,
+            "name": "IPC_GK7205V500_G4SF\n",
+            "usage": "",
+            "version": "000889S2"
+        },
+        {
+            "downloadMenuId": 6,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE4NzE=",
+            "id": 2324,
+            "name": "\nIPC_GK7201V200_G3J_S38\n",
+            "usage": "",
+            "version": "000929ZJ"
         }
     ],
-    "total": 291
+    "total": 298
 }

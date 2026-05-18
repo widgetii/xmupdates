@@ -1479,7 +1479,15 @@
             "name": "NBD88X16S-KL-V3",
             "usage": "",
             "version": "00031251"
+        },
+        {
+            "downloadMenuId": 5,
+            "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0MzU=",
+            "id": 2321,
+            "name": "NBD80S16S-KL\n",
+            "usage": "",
+            "version": "00000233"
         }
     ],
-    "total": 185
+    "total": 186
 }
