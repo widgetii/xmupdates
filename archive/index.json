@@ -6741,6 +6741,22 @@
       }
     ]
   },
+  "2321": {
+    "downloadMenuId": 5,
+    "name": "NBD80S16S-KL\n",
+    "revisions": [
+      {
+        "archived_at": "2026-05-18T08:16:56Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2321__00000233__00000233\uff08NBD80S16S-KL\uff09.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE0MzU=",
+        "filename": "id2321__00000233__00000233\uff08NBD80S16S-KL\uff09.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "b3170bef0eff39b05c80ee10657cb2a0bfb6cd78c3560988cd8a5f49eb5fbf8b",
+        "size": 13953766,
+        "version": "00000233"
+      }
+    ]
+  },
   "2322": {
     "downloadMenuId": 6,
     "name": "IPC_GK7205V500_G5SF\n",
@@ -6754,6 +6770,38 @@
         "sha256": "8bfef7b9fe588ca904081810a0fc233783c405e0ca4c49ec9cadf3746cec5b95",
         "size": 10495602,
         "version": "000889S3"
+      }
+    ]
+  },
+  "2323": {
+    "downloadMenuId": 6,
+    "name": "IPC_GK7205V500_G4SF\n",
+    "revisions": [
+      {
+        "archived_at": "2026-05-18T08:16:39Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2323__000889S2__000889S2.1IPC_GK7205V500_G4SF.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE3MTI=",
+        "filename": "id2323__000889S2__000889S2.1IPC_GK7205V500_G4SF.Nat.dss.OnvifS.HIK_V5.00.R02.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "93ac1802bd46ca554d7f87193acfeffa61819a0183d7b4d6e68726dab6a6008c",
+        "size": 10492226,
+        "version": "000889S2"
+      }
+    ]
+  },
+  "2324": {
+    "downloadMenuId": 6,
+    "name": "\nIPC_GK7201V200_G3J_S38\n",
+    "revisions": [
+      {
+        "archived_at": "2026-05-18T08:16:47Z",
+        "asset_url": "https://github.com/OpenIPC/xmupdates/releases/download/firmware-archive/id2324__000929ZJ__000929ZJ.1IPC_GK7201V200_G3J_S38.Nat.dss.OnvifS.HIK_V1.00.T01.zip",
+        "downloadUrl": "https://download.xm030.cn/d/MDAwMDE4NzE=",
+        "filename": "id2324__000929ZJ__000929ZJ.1IPC_GK7201V200_G3J_S38.Nat.dss.OnvifS.HIK_V1.00.T01.zip",
+        "release_tag": "firmware-archive",
+        "sha256": "8a0307127e3c93e117a7b6f944962d8abc0d62318aba7a43d2b511bebebfd3ac",
+        "size": 7499053,
+        "version": "000929ZJ"
       }
     ]
   }
